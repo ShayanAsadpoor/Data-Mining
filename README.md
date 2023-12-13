@@ -8,6 +8,5 @@ Welcome to the Data Mining Methods Repository! This repository offers a comprehe
 - **Clustering:** Tools for grouping similar data points together based on patterns and similarities.
 - **Basic Data Mining Concepts:** Clear explanations of key concepts, terminology, and methodologies.
 
-Explore our collection of notebooks, code examples, and tutorials to enhance your data mining skills and gain valuable insights from your data. Whether you're working on machine learning projects, data analysis, or research, this repository is a valuable resource to help you achieve your data mining goals.
 
 Feel free to fork, contribute, and adapt the code to suit your needs. Happy data mining!
